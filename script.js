@@ -1,11 +1,12 @@
 // Global variables
 const container = document.getElementById('container');
+const gridSizeBtn = document.getElementById('grid-size-btn');
+const gridSizeInput = document.getElementById('grid-size-input');
 let gridSize = 16;
 
 // Create the grid
 function createGrid(size) {
     container.innerHTML = '';
-
     const squareSize = 960 / size;
 
     for (let i = 0; i < size * size; i++){
@@ -29,12 +30,9 @@ function createGrid(size) {
 createGrid(gridSize);
 
 // Button to change the grid
-const gridSizeBtn = document.getElementById('grid-size-btn');
-
 gridSizeBtn.addEventListener('click', () => {
-    let newSize = prompt('Enter number of squares per side (max 100): ', 16);
+    const newSize = parseInt(gridSizeInput.value);
 
-    newSize = parseInt(newSize);
     if (isNaN(newSize) || newSize <= 0 || newSize > 100) {
         alert('Please enter a number between 1 and 100');
         return;
@@ -42,4 +40,10 @@ gridSizeBtn.addEventListener('click', () => {
 
     gridSize = newSize;
     createGrid(gridSize);
-})
+});
+
+gridSizeInput.addEventListener('keypress', (e) => {
+    if (e.key === 'enter') {
+        gridSizeBtn.click();
+    }
+});
