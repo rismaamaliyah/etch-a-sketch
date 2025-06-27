@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    margin: 0 auto;
+    border: 2px solid #333;
+}
+
+.grid-square {
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    background-color: white;
+}
+
+#grid-size-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: palevioletred;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#grid-size-btn:hover {
+    background-color: palegoldenrod;
+}
