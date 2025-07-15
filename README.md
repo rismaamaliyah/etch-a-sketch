@@ -4,8 +4,6 @@ This is a fun little browser sketchpad I built using HTML, CSS, and JavaScript, 
 
 The main idea behind this project was to get hands-on with **DOM manipulation** and **Flexbox**, and really understand how to build something dynamic without relying on any frameworks.
 
----
-
 ## ✨ What It Can Do
 
 - Generates a 16x16 grid using JavaScript (no hardcoding!)
@@ -14,36 +12,25 @@ The main idea behind this project was to get hands-on with **DOM manipulation** 
 - Uses Flexbox for layout (no CSS Grid here-on purpose)
 - Handles bad input so the page doesn't freak out
 
----
-
 ## 💡 Extra Touches
 
 - Every hover give you a random RGB color
 - Squares darken progressively-10% darker each time you pass over them
 - You can resize the grid anytime without reloading the page
 
----
-
 ## 📸 Preview
 
 ![Etch-A-Sketch Screenshot](https://github.com/rismaamaliyah/etch-a-sketch/assets/c4b06281-99a6-4e02-bb67-5ad43d893251)
 
-
----
-
 ## 🚀 Try It Live
 
 👉 [Check out the live demo](https://rismaamaliyah.github.io/etch-a-sketch/)
-
----
 
 ## 🛠️ Tech Used
 
 - HTML
 - CSS
 - JavaScript
-
----
 
 ## 🧪 Run It Locally
 
