@@ -26,7 +26,7 @@ The main idea behind this project was to get hands-on with **DOM manipulation** 
 
 ## 📸 Preview
 
-![Etch-A-Sketch Screenshot](<img width="2754" height="1535" alt="image" src="https://github.com/user-attachments/assets/c4b06281-99a6-4e02-bb67-5ad43d893251" />)
+![Etch-A-Sketch Screenshot](https://github.com/rismaamaliyah/etch-a-sketch/assets/c4b06281-99a6-4e02-bb67-5ad43d893251)
 
 
 ---
