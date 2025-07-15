@@ -1,6 +1,6 @@
 # Etch-A-Sketch Grid Project 🎨
 
-This is a fun little browser sketchpad I built using HTML, CSS, and JavaScript, as part of [The Odin Project](https://www.theodinproject.com/dashboard).It's basically a digital version of an Etch-A-Sketch -hover over the grid and "draw" with your mouse.
+This is a fun little browser sketchpad I built using HTML, CSS, and JavaScript, as part of [The Odin Project](https://www.theodinproject.com/dashboard). It's basically a digital version of an Etch-A-Sketch -hover over the grid and "draw" with your mouse.
 
 The main idea behind this project was to get hands-on with **DOM manipulation** and **Flexbox**, and really understand how to build something dynamic without relying on any frameworks.
 
