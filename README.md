@@ -20,7 +20,8 @@ The main idea behind this project was to get hands-on with **DOM manipulation** 
 
 ## 📸 Preview
 
-![Etch-A-Sketch Screenshot](https://github.com/rismaamaliyah/etch-a-sketch/assets/c4b06281-99a6-4e02-bb67-5ad43d893251)
+![Etch-A-Sketch Screenshot]
+<img width="2828" height="1534" alt="Image" src="https://github.com/user-attachments/assets/d471c4c0-a22e-4b13-b10f-582fd861a86d" />
 
 ## 🚀 Try It Live
 
