@@ -26,7 +26,7 @@ The main idea behind this project was to get hands-on with **DOM manipulation** 
 
 ## 📸 Preview
 
-![Etch-A-Sketch Screenshot]()
+![Etch-A-Sketch Screenshot](https://github.com/rismaamaliyah/Image-Classification/assets/90541443/c3b3e302-9fb4-4c5f-a406-74e973731f6d)
 
 ---
 
